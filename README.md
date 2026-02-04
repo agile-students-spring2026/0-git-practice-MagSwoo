@@ -11,3 +11,7 @@ I found the "open training" with Nova Forge concept very interesting because it 
 
 ## Comment by Alissa Wu
 The Amazon Bedrock AgentCore announcement really caught my attention. I worked on agentic systems with LangChain during my internship at Visa, so I've seen how painful it is to get agents from a working prototype to something that's actually production-ready — you end up spending more time on infrastructure like scaling, memory, and auth than on the agent logic itself. The fact that AgentCore handles all of that and works with frameworks like LangGraph and CrewAI is huge. PGA TOUR getting a 1,000% boost in content speed and MongoDB going from months to eight weeks on deployment really shows how much of the bottleneck is just infrastructure overhead. I'm also excited about the Strands Agents TypeScript SDK, as bringing agentic development into TypeScript makes it way more accessible for full-stack devs who don't want to context-switch into Python for everything.
+
+
+## Comment by Scott Kim
+From AWS re:Invent 2025, what I found interesting is that it shows a clear shift in how we think about the cloud. AWS is no longer just providing infrastructure or tools; it’s actively reshaping how software gets built by embedding AI into development and operations workflows. Treating AI agents as long-running collaborators rather than one-off helpers fundamentally changes the developer experience. I believe that writing software may become less about managing systems and more about guiding intelligent agents if this direction succeeds.
